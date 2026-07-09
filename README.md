@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Rommel 👋 / Hi, I'm Rommel 👋</h1>
+<h1 align="center">Hola, soy rommmel / Hi, I'm Rommel </h1>
 
 <p align="center">
   Estudiante de Ingeniería en Software · Desarrollador Web Junior<br>
