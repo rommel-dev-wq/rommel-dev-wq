@@ -11,23 +11,23 @@
 
 Estudiante de Ingeniería en Ingeniería de Software en la **UABC** (FCITEC), enfocado en desarrollo web full-stack, bases de datos y administración de sistemas. Actualmente construyendo aplicaciones reales en equipo, con especial interés en resolver problemas útiles para mi comunidad.
 
-- 🔭 Trabajando actualmente en **ReportaBC**, un sistema de reporte de residuos para Baja California
-- 🌱 Aprendiendo sobre frameworks ágiles, visión por computadora y buenas prácticas de bases de datos
-- 💬 Pregúntame sobre PHP, MySQL, JavaScript o Linux
-- 📫 Contacto: rommelhc3@gmail.com
+-  Trabajando actualmente en **ReportaBC**, un sistema de reporte de residuos para Baja California
+-  Aprendiendo sobre frameworks ágiles, visión por computadora y buenas prácticas de bases de datos
+-  Pregúntame sobre PHP, MySQL, JavaScript o Linux
+-  Contacto: rommelhc3@gmail.com
 
 ### 🇺🇸 About me
 
 Software Engineering student at **UABC** (FCITEC), focused on full-stack web development, databases, and systems administration. Currently building real-world applications in a team setting, with a strong interest in solving problems that matter for my community.
 
-- 🔭 Currently working on **ReportaBC**, a waste-reporting system for Baja California
-- 🌱 Learning about agile frameworks, computer vision, and database best practices
-- 💬 Ask me about PHP, MySQL, JavaScript, or Linux
-- 📫 Reach me at: rommelhc3@gmail.com
+-  Currently working on **ReportaBC**, a waste-reporting system for Baja California
+-  Learning about agile frameworks, computer vision, and database best practices
+-  Ask me about PHP, MySQL, JavaScript, or Linux
+-  Reach me at: rommelhc3@gmail.com
 
 ---
 
-### 🛠️ Stack
+###  Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
